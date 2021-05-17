@@ -1,0 +1,9 @@
+﻿<Application x:Class="ISP11_17_Galimova_Petrov_26_april.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ISP11_17_Galimova_Petrov_26_april"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
